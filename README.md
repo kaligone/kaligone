@@ -2,6 +2,8 @@
 
 <h3 align="center">An aspiring Ethical hacker with keen intesrest in web application pentesting and cybersecurity from India</h3>
 
+<script src="https://tryhackme.com/badge/111576"></script>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🤝 I’m looking to collaborate on real-world **open source projects.** and also for Bug bounty.
