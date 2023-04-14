@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I have infinite amount of enthusiam and hard working ability
 
 <h3>My work in Cyber Security and ethical hacking </h3>
-- ` Hall of fame Cito.nl `
+` Hall of fame Cito.nl `
 [See here](https://www.cito.nl/over-cito/contact/responsible-disclosure/hall-of-fame) 
 
 
