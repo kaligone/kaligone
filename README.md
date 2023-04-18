@@ -16,7 +16,11 @@
 ### Project work
 
 [WEBER : A web application vulnerability scanner :](https://github.com/kaligone/Weber_BE_Project)
-[]()
+[Hacking Tools automation](https://github.com/kaligone/Hacking-Tools)
+[OSINT based CTF challenge](https://github.com/kaligone/osint-ctf)
+[Vehicle number plate detection ](https://github.com/kaligone/Sem5_Mini-project)
+[Face-recognition-based-attendance-system](https://github.com/kaligone/Face-recognition-based-attendance-system-)
+[Driver rental system](https://youtu.be/ySupRCUtcJI)
 
 ### Bug bounty and cyber security
 
