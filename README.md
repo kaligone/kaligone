@@ -15,22 +15,29 @@
 
 ### Project work
 
-    [WEBER : A web application vulnerability scanner :](https://github.com/kaligone/Weber_BE_Project)
+[WEBER : A web application vulnerability scanner :](https://github.com/kaligone/Weber_BE_Project)
 
-    [Hacking Tools automation](https://github.com/kaligone/Hacking-Tools)
+[Hacking Tools automation](https://github.com/kaligone/Hacking-Tools)
 
-    [OSINT based CTF challenge](https://github.com/kaligone/osint-ctf)
+[OSINT based CTF challenge](https://github.com/kaligone/osint-ctf)
 
-    Freelance work - Frontend 
+Freelance work - Frontend 
 
-    [Vehicle number plate detection ](https://github.com/kaligone/Sem5_Mini-project)
+[Vehicle number plate detection ](https://github.com/kaligone/Sem5_Mini-project)
 
-    [Face-recognition-based-attendance-system](https://github.com/kaligone/Face-recognition-based-attendance-system-)
+[Face-recognition-based-attendance-system](https://github.com/kaligone/Face-recognition-based-attendance-system-)
 
-    [Driver rental system](https://youtu.be/ySupRCUtcJI)
+[Driver rental system](https://youtu.be/ySupRCUtcJI)
 
-### Bug bounty and cyber security
+### Bug bounty and Cyber security
 
+1. VishwaCTF [Rank : 441]
+2. Bug in hp.com [Open redirection]
+3. Bug in cito.nl [A07 : Security token leak] [HALL OF FAME](https://www.cito.nl/over-cito/contact/responsible-disclosure/hall-of-fame)
+4. Bug in derexel university and berkeley university website [Subdomain Taken over]
+5. Bugs in government websites [XSS, HTML Injection, Clickjacking,SQL Injection]
+6. Bugs in other websites (names can't be disclosed) [XSS, HTML Injection, CSRF, XSS and more]
+    
 ### More...
 
 
