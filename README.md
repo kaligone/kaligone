@@ -38,7 +38,7 @@ Freelance work - Frontend
 5. Bugs in government websites [XSS, HTML Injection, Clickjacking,SQL Injection]
 6. Bugs in other websites (names can't be disclosed) [XSS, HTML Injection, CSRF, XSS and more]
     
-### More...
+### More..
 
 
 ## 🌐 Socials:
