@@ -40,7 +40,7 @@
 5. Bugs in government websites [XSS, HTML Injection, Clickjacking,SQL Injection]
 6. Bugs in other websites (names can't be disclosed) [XSS, HTML Injection, CSRF, XSS and more]
 
-<h5><script src="https://tryhackme.com/badge/111576"></script></h5>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kaligone.png" alt="TryHackMe">
     
 ##### More...
 
