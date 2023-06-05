@@ -37,8 +37,8 @@
 2. Bug in hp.com [Open redirection] (No reward or HOF policy)
 3. Bug in cito.nl [A07 : Security token leak] [HALL OF FAME](https://www.cito.nl/over-cito/contact/responsible-disclosure/hall-of-fame)
 4. Bug in derexel university and berkeley university website [Subdomain Taken over] 
-5. Bugs in government websites [XSS, HTML Injection, Clickjacking,SQL Injection]
-6. Bugs in other websites (names can't be disclosed) [XSS, HTML Injection, CSRF, XSS and more]
+5. Bugs in government websites [XSS, HTML Injection, Clickjacking]
+6. Bugs in other websites (names can't be disclosed) [XSS, HTML Injection, CSRF and more]
 7. TryHackMe [Profile](https://tryhackme.com/p/Kaligone)
     
 ##### More...
