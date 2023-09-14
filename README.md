@@ -1,14 +1,14 @@
 <h1 align="center">Hello👋, I'm Pratik Badgujar</h1>
 
-<h3 align="center">An aspiring Developer and Ethical hacker with keen intesrest in web application pentesting and cybersecurity from India</h3>
+<h3 align="center">An aspiring Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Offensive security and Development<br>
-👯 I’m looking to collaborate on open source projects and security related things.<br>
-🤝 I’m looking for help with Development and offensive security<br>
-🌱 I’m currently learning Offensive security, JavaScript , Development and many more<br>
+🔭 I’m currently working on Development learning ReactJs <br>
+👯 I’m looking to collaborate on open source projects.<br>
+🤝 I’m looking for help with Development and secure code development<br>
+🌱 I’m currently learning ReactJs , JavaScript , Development and many more<br>
 💬 Ask me about Cyber security , VAPT, Bug Bounty and development<br>
 ⚡ Fun fact I have infinite amount of enthusiasm and hard working ability
 
