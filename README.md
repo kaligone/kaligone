@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Development learning ReactJs <br>
+🔭 I’m currently working on Development and learning ReactJs <br>
 👯 I’m looking to collaborate on open source projects.<br>
 🤝 I’m looking for help with Development and secure code development<br>
 🌱 I’m currently learning ReactJs , JavaScript , Development and many more<br>
