@@ -17,7 +17,7 @@
 
 ### Project work
 
-BSides Mumbai 2024 Website [Currently Working ]
+BSides Mumbai 2024 Website [Checkout here](https://bsidesmumbai.in/index.html)
 
 [WEBER : A web application vulnerability scanner :](https://github.com/kaligone/Weber_BE_Project)
 
