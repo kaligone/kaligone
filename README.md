@@ -5,12 +5,12 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Development and learning ReactJs <br>
+🔭 I’m currently working as Data Engineer exploring several concepts and skills to make data valuable<br>
+🌱 I’m currently learning PySpark , DataBricks, Azure , ETL concept and more<br>
 👯 I’m looking to collaborate on open source projects.<br>
 🤝 I’m looking for help with Development and secure code development<br>
-🌱 I’m currently learning ReactJs , JavaScript , Development and many more<br>
-💬 Ask me about Cyber security , VAPT, Bug Bounty and development<br>
-⚡ Fun fact I have infinite amount of enthusiasm and hard working ability
+💬 Ask me about Data engineering , Cyber security , VAPT, Bug Bounty and development<br>
+⚡ Fun fact I have infinite amount of enthusiasm and hard working ability and 100% flexibility and agility to learn and work
 
 
 # 👷 My Work:
