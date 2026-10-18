@@ -29,7 +29,7 @@
 ## Currently
 
 Building data pipelines that actually work — and migrating legacy systems that definitely don't.  
-Working at **Citi** on the Investment Enclave team. Previously at **Accenture** on a large-scale cloud data migration for Telstra.
+Working at **Citi** on the Data. Previously at **Accenture** on a large-scale cloud data migration.
 
 <br/>
 
