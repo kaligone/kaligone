@@ -1,66 +1,129 @@
-<h1 align="center">Hello👋, I'm Pratik Badgujar</h1>
+<div align="center">
 
-<h3 align="center">An aspiring Developer from India</h3>
+<br/>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# Pratik Badgujar
 
-# 💫 About Me:
-🔭 I’m currently working as Data Engineer exploring several concepts and skills to make data valuable<br>
-🌱 I’m currently learning PySpark , DataBricks, Azure , ETL concept and more<br>
-👯 I’m looking to collaborate on open source projects.<br>
-🤝 I’m looking for help with Development and secure code development<br>
-💬 Ask me about Data engineering , Cyber security , VAPT, Bug Bounty and development<br>
-⚡ Fun fact I have infinite amount of enthusiasm and hard working ability and 100% flexibility and agility to learn and work
+**Data Engineer &nbsp;·&nbsp; Pune, India**
 
+<br/>
 
-# 👷 My Work:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pratik-badgujar-277a841b0)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717)](https://github.com/kaligone)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-white?style=flat-square&logo=medium&logoColor=000000)](https://medium.com/@thea665566)
+&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-white?style=flat-square&logo=blogger&logoColor=FF5722)](https://techhacksinourlife.blogspot.com/)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-white?style=flat-square&logo=tryhackme&logoColor=212C42)](https://tryhackme.com/p/Kaligone)
 
-### Project work
+<br/><br/>
 
-BSides Mumbai 2024 Website [Checkout here](https://bsidesmumbai.in/index.html)
-
-[WEBER : A web application vulnerability scanner :](https://github.com/kaligone/Weber_BE_Project)
-
-[Hacking Tools automation](https://github.com/kaligone/Hacking-Tools)
-
-[OSINT based CTF challenge](https://github.com/kaligone/osint-ctf)
-
-[Vehicle number plate detection ](https://github.com/kaligone/Sem5_Mini-project)
-
-[Face-recognition-based-attendance-system](https://github.com/kaligone/Face-recognition-based-attendance-system-)
-
-[Driver rental system](https://youtu.be/ySupRCUtcJI)
-
-    Freelance work - Frontend development 
-
-### Bug bounty and Cyber security
-
-1. VishwaCTF [Rank : 441]
-2. Bug in hp.com [Open redirection] (No reward or HOF policy)
-3. Bug in cito.nl [A07 : Security token leak] [HALL OF FAME](https://www.cito.nl/over-cito/contact/responsible-disclosure/hall-of-fame)
-4. Bug in derexel university and berkeley university website [Subdomain Taken over] 
-5. Bugs in government websites [XSS, HTML Injection, Clickjacking]
-6. Bugs in other websites (names can't be disclosed) [XSS, HTML Injection, CSRF and more]
-7. TryHackMe [Profile](https://tryhackme.com/p/Kaligone)
-    
-##### More...
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratik-badgujar-277a841b0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipratikHacker) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaligone&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaligone&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaligone&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ipratikHacker)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaligone&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<br/>
+
+## Currently
+
+Building data pipelines that actually work — and migrating legacy systems that definitely don't.  
+Working at **Citi** on the Investment Enclave team. Previously at **Accenture** on a large-scale cloud data migration for Telstra.
+
+<br/>
+
+---
+
+<br/>
+
+## Stack
+
+```
+Cloud       Azure (ADF · ADLS Gen2) · GCP
+Compute     PySpark · Databricks · Delta Lake
+Language    Python · SQL · PL/SQL
+Web         FastAPI · Flask · HTML/CSS
+Security    VAPT · OWASP · Burp Suite
+```
+
+<br/>
+
+---
+
+<br/>
+
+## Certifications
+
+```
+Databricks Certified Data Engineer Professional
+Databricks Certified Data Engineer Associate
+Google Cloud Associate Cloud Engineer
+```
+
+<br/>
+
+---
+
+<br/>
+
+## Projects
+
+**FlowMind** &nbsp;—&nbsp; LLM-agnostic ETL orchestration framework. Plug in any model, keep your pipelines.
+
+**HuntAI** &nbsp;—&nbsp; Full-stack AI agent for job hunting. Discovery, filtering, tracking — automated end to end.
+
+**[WEBER](https://github.com/kaligone/Weber_BE_Project)** &nbsp;—&nbsp; Web application vulnerability scanner. OWASP-coverage, built from scratch.
+
+**[OSINT CTF](https://github.com/kaligone/osint-ctf)** &nbsp;—&nbsp; Custom OSINT challenge designed for the security community.
+
+**[BSides Mumbai 2024](https://bsidesmumbai.in)** &nbsp;—&nbsp; Official conference website.
+
+<br/>
+
+---
+
+<br/>
+
+## Security
+
+| Target | Finding |
+|--------|---------|
+| cito.nl | Security token leak &nbsp;·&nbsp; [Hall of Fame](https://www.cito.nl/over-cito/contact/responsible-disclosure/hall-of-fame) |
+| Drexel & Berkeley | Subdomain takeover |
+| Government sites | XSS · HTML Injection · Clickjacking |
+| hp.com | Open redirect |
+| Various (undisclosed) | XSS · CSRF · HTML Injection |
+| VishwaCTF | Rank 441 |
+
+<br/>
+
+---
+
+<br/>
+
+## Education
+
+**B.Tech, Computer Engineering** &nbsp;·&nbsp; Pillai College of Engineering &nbsp;·&nbsp; 2019 – 2023
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kaligone&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=1db954)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaligone&theme=dark&hide_border=true&background=0d1117&stroke=1db954&ring=1db954&fire=1db954&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaligone&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact)
+
+<br/><br/>
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=kaligone&icon=0&color=3)
+
+</div>
+
+<br/>
